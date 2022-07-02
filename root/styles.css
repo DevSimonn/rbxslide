@@ -630,14 +630,21 @@ body {
     text-decoration: none;
     font-family: Poppins, sans-serif;
     font-size: 0.8vw;
+    transition: 0.1s;
+    align-items: center;
+}
+
+.send-btn:active{
+    top: 20%;
+    box-shadow: 0 0vw 0 rgb(116, 0, 0);
 }
 
 .send-icon{
     color: white;
-    width: 10%;
+    width: 40%;
     position: absolute;
-    top: 20%;
-    left: 75%;
+    top: 10%;
+    left: 30%;
     
 }
 
