@@ -648,6 +648,15 @@ body {
     
 }
 
+.send-icon2{
+    color: white;
+    width: 40%;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    
+}
+
 .logo{
     color: white;
     width: 150px;
