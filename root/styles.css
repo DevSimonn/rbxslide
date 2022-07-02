@@ -655,6 +655,21 @@ body {
     
 }
 
+.new-logo{
+    color: white;
+    width: 150px;
+    max-height: 10vw;
+    max-width: 7%;
+    min-height: 1vw;
+    min-width: 0.8vw;
+    position: absolute;
+    align-self: center;
+    top: 3%;
+    left: 1%;
+    z-index: 10;
+    
+}
+
 
 
 .border-top-div{
