@@ -6,7 +6,8 @@
 
   
 body {
-    background-color: hsl(220, 22%, 16%);
+    height: 100%;
+    background-color: hsl(220, 22%, 12%);
     overflow-y: hidden;
     
 }
@@ -27,6 +28,13 @@ body {
   }
 
   #root {
+    height: 100%;
     display: flex;
     flex-direction: column;
   }
+
+  .header_top{
+    height: 52px;
+    background-color: hsl(220, 22%, 16%);
+  }
+  
