@@ -25,3 +25,8 @@ body {
     background: rgba(0, 0, 0, 0.2);
     
   }
+
+  #root {
+    display: flex;
+    flex-direction: column;
+  }
