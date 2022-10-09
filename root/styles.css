@@ -10,7 +10,7 @@
     transition: opacity 0.2s, box-shadow 0.2s;
 }
 
-.place-bet:hover {
+.place-bet:active {
     opacity: 0.8;
     box-shadow: 4px, 4px, 9px rgba(0, 0, 0, 0.3);
 }
