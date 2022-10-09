@@ -11,6 +11,6 @@
 }
 
 .place-bet:active {
-    opacity: 0.8;
-    box-shadow: 4px, 4px, 9px rgba(0, 0, 0, 0.3);
+    opacity: 0.6;
+    box-shadow: 4px, 4px, 9px rgba(0, 0, 0, 0.45);
 }
