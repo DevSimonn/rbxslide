@@ -12,7 +12,7 @@
 
 .place-bet:hover {
     opacity: 0.8;
-    box-shadow: 4px, 4px, 9px rgba(0, 217, 255, 0.705);
+    box-shadow: 4px, 4px, 9px rgba(0, 217, 255, 0.589);
 }
 
 .place-bet:active {
