@@ -2,7 +2,12 @@ body{
     background-color: #0c0032;
 }
 
+
 #root{
     height: 100%;
     width: 100%;
+}
+
+.header_top{
+    background-color: #282828;
 }
